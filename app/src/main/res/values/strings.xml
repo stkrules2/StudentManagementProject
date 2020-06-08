@@ -23,13 +23,11 @@
 
     <string-array name="department">
         <item>Select department</item>
-        <item>English</item>
+        <item>English literature </item>
         <item>BBA</item>
-        <item>EEE</item>
-        <item>CSE</item>
-        <item>Math</item>
-        <item>Sociology</item>
-        <item>Economic</item>
+        <item>EE</item>
+        <item>Software Engineering</item>
+        <item>Mass Comm</item>
 
     </string-array>
     <string-array name="year">
@@ -46,12 +44,7 @@
         <item>2018</item>
         <item>2019</item>
         <item>2020</item>
-        <item>2021</item>
-        <item>2022</item>
-        <item>2023</item>
-        <item>2024</item>
-        <item>2025</item>
-        <item>2026</item>
+
 
     </string-array>
 
@@ -64,11 +57,11 @@
     </string-array>
 
     <string-array name="course_code">
-        <item>CSE-111</item>
-        <item>CSE-121</item>
-        <item>CSE-231</item>
-        <item>CSE-221</item>
-        <item>CSE-321</item>
+        <item>BSSE-111</item>
+        <item>BSSE-121</item>
+        <item>BSSE-231</item>
+        <item>BSSE-221</item>
+        <item>BSSE-321</item>
     </string-array>
     <string-array name="desig">
         <item>Select Designation</item>
@@ -82,17 +75,9 @@
 
         <item>Select shift</item>
         <item>Day</item>
-        <item>Evening</item>
     </string-array>
 
-    //intro
-    <string name="intro_details">Manege teacher and student information\n
-        course allocation System\n
-        take live Attendance
-    </string>
-    <string name="intro_contacts">Manege Teacher and Student information</string>
-    <string name="intro_blood_donation">Course Allocation System</string>
-    <string name="intro_find_location">Take live Attendance</string>
+
 
 
 
